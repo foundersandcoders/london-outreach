@@ -6,15 +6,31 @@ The main objective of this hack day will be to give students an intro into css, 
 
 The day will potentially last around 2 hours and 15 minutes.
 
-Time | Length|Task|Description|
----- | :-------| :----- | :------|
-0:00 |  10 mins  | Introduction | - Introduce our selves and go through an out line of the hack day<br>  - Get the students to google github and then ask questions on there findings|
-0:10 |  20 mins  | Set up github | - Help the students set up there own github accounts|
-0:30 |  15 mins  | Introduce html | - Get the students to google html and ask questions <br> - Create a basic html page with a few tags on a easily viewable screen, asking questions through out (on code pen)|
-0:45 |  5 mins  | Pair | - Pair the students together |
-0:50 |  15 mins  | Html get started | - Get the students to add a few tags using code pen |
-1:05 |  15 mins  | Break | - Chill time (maybe some drinks and a snack not sure) |
-1:20 |  15 mins  | Introduce css | - Get the students to google css and ask questions <br> - Add css to the group code pen asking questions through out |
-1:35 |  20 mins  | Css get started | - Get the students to add css to there code pen |
-1:55 |  5 mins  | Intro github pages | - Briefly explain github pages |
-2:00 |  15 mins  | Create website| - Help the students to move there code pens to github pages|
+### Course description
+
+- Introduce our selves and get the students to play the name game.
+- Ask if anyone has any experience with websites and pair them accordingly.
+  * Ask the pairs to pick a topic of interest.
+- Explain the advantage of working in pairs.
+  * Two eyes on the code more likely to spot problems.
+- Introduce code pen and show them some code pen examples.
+- Introduce html with code along.
+  * Introduce html, body, head, h1, h2, p.
+  * Ask the students to go to w3school and click on learn html.
+  * Ask the students to try have a play with some of there own content and try using anouther tag.
+- Introduce link tag and image tag in code along.
+  * Ask the students to add their own link tags and image tags.
+- Break
+- Introduce css with code along.
+  * Style the header (ask students what color size they would like the header).
+  * Style the text change the font.
+  * Style the image.
+  * Ask student to check out w3schools and play around.
+- Introduce github.
+  * Create github account.
+  * Copy and paste code.
+  * Go to settings and activate pages.
+- Show and tell.
+  * Show there page.
+  * Explain something that they feel they learnt today
+  
